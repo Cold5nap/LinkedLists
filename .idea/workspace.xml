@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de292319-f67b-43e9-8dc6-ba192408324c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task#2_Number_27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/field1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/Arguments.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/MixLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/MyLinkedList$1MyLinkedListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/MyLinkedList$ListItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/MyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/MyQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/MyStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/ArrayUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/DrawUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$1RowHeaderRenderer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$JTableUtilsException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/SwingUtils$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/SwingUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrameMain.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrameMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MixLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/DrawUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/JTableUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/SwingUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task_2_Number_27/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ru/vsu/cs/util/ArrayUtils.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/input1.txt" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1260" />
+    <option name="height" value="892" />
+  </component>
+  <component name="ProjectId" id="1YQeKGdL0gxrGPamkG0sOoZhgad" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/../Task_2_Number_27" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Task#2_Number_27" />
+      <option name="PROGRAM_PARAMETERS" value="win input1 output1" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Task#2_Number_27" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Task#2_Number_27" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de292319-f67b-43e9-8dc6-ba192408324c" name="Default" comment="" />
+      <created>1581942893667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581942893667</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1588957218059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1588957218059" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589046136857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589046136857" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1588856104389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588856104389" />
+    <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1588964834838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588964834838" />
+    <state x="629" y="108" key="CommitChangelistDialog2" timestamp="1589047313498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="629" y="108" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589047313498" />
+    <state x="221" y="155" width="1536" height="860" key="DiffContextDialog" timestamp="1589047767998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="221" y="155" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589047767998" />
+    <state x="809" y="290" key="FileChooserDialogImpl" timestamp="1589047970477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="809" y="290" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589047970477" />
+    <state x="773" y="442" key="Github.CreateGistDialog" timestamp="1589047716247">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="442" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589047716247" />
+    <state x="708" y="209" width="810" height="252" key="Github.ShareDialog" timestamp="1589047586408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="708" y="209" width="810" height="252" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589047586408" />
+    <state x="756" y="219" key="Github.UntrackedFilesDialog" timestamp="1589047597257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="219" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589047597257" />
+    <state width="1879" height="278" key="GridCell.Tab.0.bottom" timestamp="1589045878237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589045878237" />
+    <state width="1803" height="342" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582892620319" />
+    <state width="1879" height="278" key="GridCell.Tab.0.center" timestamp="1589045878237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589045878237" />
+    <state width="1803" height="342" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582892620318" />
+    <state width="1879" height="278" key="GridCell.Tab.0.left" timestamp="1589045878237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589045878237" />
+    <state width="1803" height="342" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582892620317" />
+    <state width="1879" height="278" key="GridCell.Tab.0.right" timestamp="1589045878237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589045878237" />
+    <state width="1803" height="342" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582892620319" />
+    <state width="1879" height="346" key="GridCell.Tab.1.bottom" timestamp="1588976101146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588976101146" />
+    <state width="1803" height="342" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582892620322" />
+    <state width="1879" height="346" key="GridCell.Tab.1.center" timestamp="1588976101146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588976101146" />
+    <state width="1803" height="342" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582892620321" />
+    <state width="1879" height="346" key="GridCell.Tab.1.left" timestamp="1588976101146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588976101146" />
+    <state width="1803" height="342" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582892620320" />
+    <state width="1879" height="346" key="GridCell.Tab.1.right" timestamp="1588976101146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588976101146" />
+    <state width="1803" height="342" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582892620321" />
+    <state x="746" y="223" key="RollbackChangesDialog" timestamp="1589047336357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="746" y="223" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589047336357" />
+    <state x="801" y="64" width="1013" height="738" key="SettingsEditor" timestamp="1589047431667">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="801" y="64" width="1013" height="738" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589047431667" />
+    <state x="805" y="437" key="VCS.ChangelistChooser" timestamp="1589047296057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="805" y="437" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589047296057" />
+    <state x="758" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589046823403">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589046823403" />
+    <state x="744" y="311" key="git4idea.merge.GitPullDialog" timestamp="1589047198508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589047198508" />
+    <state x="775" y="383" key="git4idea.rebase.GitRebaseDialog" timestamp="1589047963197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="383" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589047963197" />
+    <state x="752" y="415" key="git4idea.ui.GitResetDialog" timestamp="1589047131297">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="415" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589047131297" />
+    <state x="539" y="440" width="635" height="566" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1588965434569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="440" width="635" height="566" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588965434569" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1582884855127">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582884855127" />
+    <state x="397" y="278" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1589047216629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="397" y="278" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589047216629" />
+  </component>
+</project>
