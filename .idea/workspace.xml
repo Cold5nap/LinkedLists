@@ -1,71 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="de292319-f67b-43e9-8dc6-ba192408324c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task#2_Number_27.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/field1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/Arguments.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/MixLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/MyLinkedList$1MyLinkedListIterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/MyLinkedList$ListItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/MyLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/MyQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/MyStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/ArrayUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/DrawUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$1RowHeaderRenderer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$JTableUtilsException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/SwingUtils$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/SwingUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FrameMain.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FrameMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MixLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/ArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/DrawUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/JTableUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/vsu/cs/util/SwingUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task_2_Number_27/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="de292319-f67b-43e9-8dc6-ba192408324c" name="Default" comment="task 2 #27">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/field1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/Arguments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/FrameMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/MixLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/MyLinkedList$1MyLinkedListIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/MyLinkedList$ListItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/MyQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/MyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/ArrayUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/DrawUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$1RowHeaderRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils$JTableUtilsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/JTableUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/SwingUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedLists/ru/vsu/cs/util/SwingUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyStack.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,9 +61,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="037e868b-fd1c-48fd-b33e-403fd9e4b0bf" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/ru/vsu/cs/util/ArrayUtils.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/input1.txt" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -110,62 +87,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$/../Task_2_Number_27" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Task#2_Number_27" />
-      <option name="PROGRAM_PARAMETERS" value="win input1 output1" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Task#2_Number_27" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Task#2_Number_27" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -187,21 +116,56 @@
       <option name="presentableId" value="Default" />
       <updated>1581942893667</updated>
     </task>
+    <task id="LOCAL-00001" summary="task 2 #27">
+      <created>1589048353745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589048353745</updated>
+    </task>
+    <task id="LOCAL-00002" summary="task 2 #27">
+      <created>1589673760961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589673760961</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task 2 #27" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 2 #27" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1588957218059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1588957218059" />
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589046136857">
+    <state x="412" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589673688968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589046136857" />
+    <state x="412" y="275" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589673688968" />
     <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1588856104389">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588856104389" />
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589673198996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589673198996" />
     <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1588964834838">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -214,41 +178,41 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="221" y="155" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589047767998" />
-    <state x="809" y="290" key="FileChooserDialogImpl" timestamp="1589047970477">
+    <state x="809" y="290" key="FileChooserDialogImpl" timestamp="1589048778858">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="809" y="290" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589047970477" />
+    <state x="809" y="290" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589048778858" />
     <state x="773" y="442" key="Github.CreateGistDialog" timestamp="1589047716247">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="773" y="442" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589047716247" />
-    <state x="708" y="209" width="810" height="252" key="Github.ShareDialog" timestamp="1589047586408">
+    <state x="708" y="209" width="810" height="252" key="Github.ShareDialog" timestamp="1589048831367">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="708" y="209" width="810" height="252" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589047586408" />
+    <state x="708" y="209" width="810" height="252" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589048831367" />
     <state x="756" y="219" key="Github.UntrackedFilesDialog" timestamp="1589047597257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="756" y="219" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589047597257" />
-    <state width="1879" height="278" key="GridCell.Tab.0.bottom" timestamp="1589045878237">
+    <state width="939" height="277" key="GridCell.Tab.0.bottom" timestamp="1589673654721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589045878237" />
+    <state width="939" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589673654721" />
     <state width="1803" height="342" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582892620319" />
-    <state width="1879" height="278" key="GridCell.Tab.0.center" timestamp="1589045878237">
+    <state width="939" height="277" key="GridCell.Tab.0.center" timestamp="1589673654721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589045878237" />
+    <state width="939" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589673654721" />
     <state width="1803" height="342" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582892620318" />
-    <state width="1879" height="278" key="GridCell.Tab.0.left" timestamp="1589045878237">
+    <state width="939" height="277" key="GridCell.Tab.0.left" timestamp="1589673654721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589045878237" />
+    <state width="939" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589673654721" />
     <state width="1803" height="342" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582892620317" />
-    <state width="1879" height="278" key="GridCell.Tab.0.right" timestamp="1589045878237">
+    <state width="939" height="277" key="GridCell.Tab.0.right" timestamp="1589673654721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1879" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589045878237" />
+    <state width="939" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589673654721" />
     <state width="1803" height="342" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582892620319" />
     <state width="1879" height="346" key="GridCell.Tab.1.bottom" timestamp="1588976101146">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -274,18 +238,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="746" y="223" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589047336357" />
-    <state x="801" y="64" width="1013" height="738" key="SettingsEditor" timestamp="1589047431667">
+    <state x="801" y="64" width="1013" height="738" key="SettingsEditor" timestamp="1589674019427">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="801" y="64" width="1013" height="738" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589047431667" />
+    <state x="801" y="64" width="1013" height="738" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589674019427" />
     <state x="805" y="437" key="VCS.ChangelistChooser" timestamp="1589047296057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="805" y="437" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589047296057" />
-    <state x="758" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589046823403">
+    <state x="758" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589048463898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="758" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589046823403" />
+    <state x="758" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589048463898" />
     <state x="744" y="311" key="git4idea.merge.GitPullDialog" timestamp="1589047198508">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
