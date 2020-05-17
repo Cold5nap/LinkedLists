@@ -66,8 +66,10 @@ public class FrameMain extends JFrame {
         SwingUtils.initLookAndFeelMenu(menuLookAndFeel);
 
         Arguments arguments = new Arguments(args);
-        if(args.length>1)
+        File inputFile = new File(arguments.secondArg + ".txt");
+        if(args.length>1 && inputFile.exists())
         JTableUtils.writeArrayToJTable(tableInput, ArrayUtils.readIntArray2FromFile(arguments.secondArg + ".txt"));
+        else throw new Exception("Wrong 2 argument");
 
         this.pack();
 
